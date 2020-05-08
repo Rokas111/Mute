@@ -1,0 +1,5 @@
+name: Mute
+main: me.Rokaz.Mute.core.Mute
+version: 1.0
+author: Rokaz
+commands:
